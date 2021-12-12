@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:22:45:05 +0700] "GET /HelloSpringMVC HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:22:45:05 +0700] "GET /HelloSpringMVC/ HTTP/1.1" 200 57 http-bio-8080-exec-2 149
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:22:45:06 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:22:45:10 +0700] "GET /HelloSpringMVC/hello HTTP/1.1" 200 300 http-bio-8080-exec-5 376
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:22:45:19 +0700] "GET /HelloSpringMVC/trangchu HTTP/1.1" 200 - http-bio-8080-exec-6 38
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:23:48:54 +0700] "GET /HelloSpringMVC HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:23:48:55 +0700] "GET /HelloSpringMVC/ HTTP/1.1" 200 57 http-bio-8080-exec-3 89
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:23:48:57 +0700] "GET /HelloSpringMVC/ HTTP/1.1" 200 57 http-bio-8080-exec-4 5
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:23:52:47 +0700] "GET /HelloSpringMVC/ HTTP/1.1" 200 57 http-bio-8080-exec-2 102
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:23:53:12 +0700] "GET /HelloSpringMVC/htsach HTTP/1.1" 500 9851 http-bio-8080-exec-3 6255
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:23:55:54 +0700] "GET /HelloSpringMVC/htsach HTTP/1.1" 500 6077 http-bio-8080-exec-2 8461
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:23:59:29 +0700] "GET /HelloSpringMVC/htsach HTTP/1.1" 200 85916 http-bio-8080-exec-2 7681
